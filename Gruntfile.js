@@ -8,6 +8,9 @@
 
 require('./core/server/overrides');
 
+/* o.k this is a test
+*/
+
 var config = require('./core/server/config'),
     urlService = require('./core/server/services/url'),
     _ = require('lodash'),
